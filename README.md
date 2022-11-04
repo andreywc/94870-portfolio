@@ -10,12 +10,17 @@ Data visualization may sound like a simple idea to many people, but it is defini
 With my past experience working as a data analyst intern, I would like to dig in more to the field. I was inspired by how the visualization dashboards could assist others in their works, it feels like that the work that I did improved one's life by bringing them convenience, this was what brings me to learn more in this course. From the "basic" but critical things like colors and layouts, which we often ignore, to even more thorough knowledge when interpreting data. As I would like to continue my journey in the data visualization world after graduation, I believe the course will give me the strength to build a better understanding as a storyteller of data.
 
 ## Portfolio
-### General government debt bar chart  
+### General government debt 
+#### Bar chart  
 <iframe src="https://data.oecd.org/chart/6S0B" width="1000" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0B" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe> 
 
-### General government debt to gdp ratio line chart  
+#### Debt-to-gdp ratio grid of line chart  
 This chart shows the debt to gdp ratio of each country from year 1995 to 2019.
-<div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
+#### Debt bar chart race
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11692043"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Summary
 ***To be continued***  
 Projects including *Data Visualization, Visualizing government debt, Critique by Design, Final Project*.
