@@ -13,5 +13,9 @@ With my past experience working as a data analyst intern, I would like to dig in
 ### General government debt bar chart  
 <iframe src="https://data.oecd.org/chart/6S0u" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0u" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>  
 
+### General government debt to gdp ratio line chart  
+This chart shows the debt to gdp ratio of each country from year 1995 to 2019.
+<div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+
 ***To be continued***  
 Projects including *Data Visualization, Visualizing government debt, Critique by Design, Final Project*.
