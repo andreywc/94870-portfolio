@@ -15,7 +15,7 @@ With my past experience working as a data analyst intern, I would like to dig in
 
 ### General government debt to gdp ratio line chart  
 This chart shows the debt to gdp ratio of each country from year 1995 to 2019.
-<div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
+<div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 ***To be continued***  
 Projects including *Data Visualization, Visualizing government debt, Critique by Design, Final Project*.
