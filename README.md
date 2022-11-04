@@ -11,7 +11,7 @@ With my past experience working as a data analyst intern, I would like to dig in
 
 ## Portfolio
 ### General government debt bar chart  
-<iframe src="https://data.oecd.org/chart/6S0u" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0u" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>  
+<iframe src="https://data.oecd.org/chart/6S0B" width="1000" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6S0B" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe> 
 
 ### General government debt to gdp ratio line chart  
 This chart shows the debt to gdp ratio of each country from year 1995 to 2019.
