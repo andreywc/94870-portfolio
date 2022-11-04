@@ -19,6 +19,7 @@ This chart shows the debt to gdp ratio of each country from year 1995 to 2019.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11691411"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
 
 #### Debt bar chart race
+This bar chart shows the top 10 countries that has the most debt from year 1995 to 2018.
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11692043"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Summary
