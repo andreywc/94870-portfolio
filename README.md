@@ -14,9 +14,9 @@ With my past experience working as a data analyst intern, I would like to dig in
 [Link to General Governement Debt Project](https://andreywc.github.io/94870-portfolio/generalgovernmentdebt.html)
 
 ### In Class Practices
-[Link to King County Demo (flourish)](https://andreywc.github.io/94870-portfolio/kingcountydemo.html)  
-[Link to Ranking of News Media by Consumer Trust Demo (tableau)](https://andreywc.github.io/94870-portfolio/rankingofnewsmediabyconsumertrust.html)  
-[Link to Allegheny County Voter Ballots Incorrectly Dated Demo (tableau)](https://andreywc.github.io/94870-portfolio/alleghenycountyvoterballots.html)  
+[Link to King County Viz (Flourish)](https://andreywc.github.io/94870-portfolio/kingcountydemo.html)  
+[Link to Ranking of News Media by Consumer Trust Viz (Tableau)](https://andreywc.github.io/94870-portfolio/rankingofnewsmediabyconsumertrust.html)  
+[Link to Allegheny County Voter Ballots Incorrectly Dated Viz (Tableau)](https://andreywc.github.io/94870-portfolio/alleghenycountyvoterballots.html)  
   
 ***To be continued***  
 Projects including *Data Visualization, Visualizing government debt, Critique by Design, Final Project*.
