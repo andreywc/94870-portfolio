@@ -1,8 +1,8 @@
 # Critique by Design
 >  The data source of the chart is recreated from [here](https://runrepeat.com/your-city-cricket-world-cup-rankings).  
 
-## Original data visualization from the news 
-![Screenshot](Screenshot of original data visualization.png)  
+## Original data visualization from ESPNcricinfo
+![Screenshot](Screenshot of original data visualization.png | width=200)  
 This data visualization is captured from [here](https://www.espncricinfo.com/story/which-top-cricket-city-would-win-the-world-cup-1196522).  
 
 ## Summary
