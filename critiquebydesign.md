@@ -13,7 +13,7 @@ Before starting to redesign, I thought about the effectiveness of the data visua
 In the two sketches I drew, I tried to change the type of visualization into bar charts to make it simple and easy for users to know the top cities of batting averages in cricket games. As I think the original color of the visualization is distracting and unfriendly to the eyes, I also changed the color and only highlight the one that has the highest data.  
   
 #### Feedbacks on sketch 1 and 2
-I interviewed two friends of mine for feedbacks. 
+I interviewed two person for feedbacks. 
 1. Student, 23 years old
 2. Student, 29 years old
   
