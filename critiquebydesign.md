@@ -44,7 +44,7 @@ Here is what they said:
 1. Overall, looks good to me! I am thinking will it be better if you tell where the cities are located? I think in that way it will be more user friendly to most audiences like me who may not know cricket games well.
 2. I recommend still highlighting the color of the top first city so that there is a difference between number 1 and the others, though you only show the top 10. And you might want to keep the label for the batting averages but remove the label for "Cities" since it is redundant.  
 
-### Final redesign
+#### Final redesign
 According to the feedbacks, I modified the chart again and came up with the final redesign visualization using Flourish showed in the next section. This time, I added the countries of the cities according to interviewee 1's suggestion. The colors are also altered with the top first city highlighted. Most cricket balls are in red color, but I believe using a red can be harmful to the eyes when viewing, so I picked a more muted light red color and use a light blue for the highlighted city.
 
 After receiving the feedbacks, I was grateful to know that there are still improvements that I can make to make the visualization more useful. Though I may be satisified at the beginning, as the advices came in, I could think more thoroughly and redesign. Although no visualization can suit all audiences tastes, it was a great experience to modify my charts based on the opinions the interviewees gave me.
