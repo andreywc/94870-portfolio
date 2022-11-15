@@ -8,7 +8,9 @@ This data visualization is captured from [here](https://www.espncricinfo.com/sto
 ## Step-by-Step Redesigning Process
 #### Redesign sketch 1 and 2
 Before starting to redesign, I thought about the effectiveness of the data visualization according to the google form filled out in class. I believe the primary audiences are those who are interested or who cared about cricket games. Though the original visualization is useful for them, but the design can lead to misleading information. It is trying to tell some important data values but the way it shows will make people focus more on the shapes of the cities rather than the data, hence it will be useless. The visualization has all the data for people to understand what it is trying to tell, it is understandable but also includes some inrelevant data and is showing too much text. At the same time, the cities with taller buildings and pictures doesn't mean it have a higher average. Summarizing my opinion above, I think it is unclear and difficult to understand with minimal effort.  
+##### Sketch 1
 ![Sketch 1](Sketch 1.png)  
+##### Sketch 2
 ![Sketch 2](Sketch 2.png)  
 In the two sketches I drew, I tried to change the type of visualization into bar charts to make it simple and easy for users to know the top cities of batting averages in cricket games. As I think the original color of the visualization is distracting and unfriendly to the eyes, I also changed the color and only highlight the one that has the highest data.  
   
@@ -36,6 +38,7 @@ B: The legends on the first chart may appear small, so maybe you will want to sh
   
 #### Redesign sketch 3
 Based on the feedbacks, I came up with the following sketch 3 redesign.  
+##### Sketch 3
 ![Sketch 3](Sketch 3.png)
 First of all, the title  is renamed so that audiences can catch what the chart is about at first glance. Then I also flipped the data on the x axis and y axis as I think in this way the label of the cities can be shown in the clearest way. I also removed the "Runs" value since it is unnecessary information in this visualization. At the mean time, I add the label of the values at the end of each bar so that the users can know the value at first glance.  
   
