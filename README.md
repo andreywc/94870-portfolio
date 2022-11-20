@@ -16,6 +16,9 @@ With my past experience working as a data analyst intern, I would like to dig in
 ### Critique by Design
 [Link to Critique by Design Project](https://andreywc.github.io/94870-portfolio/critiquebydesign.html)  
   
+### Final Project  
+[Link to Final Project](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
+  
 ### In Class Practices
 [Link to King County Viz (Flourish)](https://andreywc.github.io/94870-portfolio/kingcountydemo.html)  
 [Link to Ranking of News Media by Consumer Trust Viz (Tableau)](https://andreywc.github.io/94870-portfolio/rankingofnewsmediabyconsumertrust.html)  
