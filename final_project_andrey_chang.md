@@ -13,7 +13,9 @@ I will be showing graphs to tell where are the locations with the potential high
 ### Sketches
 
 ### Data  
-The data source is from [INSURANCE INFORMATION INSTITUTE](https://www.iii.org/fact-statistic/facts-statistics-auto-theft).  
+The data source is from :
+1. [INSURANCE INFORMATION INSTITUTE](https://www.iii.org/fact-statistic/facts-statistics-auto-theft)
+2. [moneygeek](https://www.moneygeek.com/insurance/auto/most-stolen-cars-in-america/)  
   
 The plan is to generate a few visualization graphs from the datasets. There will be information about the top locations where motor vehicles are stollen, frequently stolen types of vehicles, when is the most active time cars are stolen and what areas we may want to pay more attention about. Different data tables from the data sources will be combined to give a more comprehensive understanding.
   
