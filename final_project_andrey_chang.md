@@ -1,23 +1,17 @@
 # Final Project 
 ## Part I
 ### Outline  
-With the approaching of the traveling season, how much are you aware of the safety of your vehicle?   
+The popularity of movies around the world have always been high. What is the most interesting genre that appeals you when you want to go to the theater and watch a movie? Does a higher rated movie earns more? There are many to think about when it comes to the movie industry. 
   
-In this project, I will show information about hot places where a theft may appear. Always stay alert no matter where you are, but if you are trying to visit some specific places with some specific types of vehicles, you might want to pay more attention. It is not to late to take action in protecting your property. The following categories will be covered in the project:  
-1. Car type
-2. States
-3. Metropolitan area
-4. Holidays  
-  
-I will be showing graphs to tell where are the locations with the potential higher risks. 
+In this project, I hope to show information about the correlation about the "score" and the "gross". Moreover, does any specific genre earns more than the others. A blockbuster doesn't always mean it earns more. As a reader, I want to know more about the budget, the gross, the score, and other related data information that may potentially affect the audiences choices to watch a movie. 
 ### Sketches
 
 ### Data  
 The data source is from :
-1. [INSURANCE INFORMATION INSTITUTE](https://www.iii.org/fact-statistic/facts-statistics-auto-theft)
-2. [moneygeek](https://www.moneygeek.com/insurance/auto/most-stolen-cars-in-america/)  
+1. [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download)  
+2. More to be found..
   
-The plan is to generate a few visualization graphs from the datasets. There will be information about the top locations where motor vehicles are stollen, frequently stolen types of vehicles, when is the most active time cars are stolen and what areas we may want to pay more attention about. Different data tables from the data sources will be combined to give a more comprehensive understanding.
+The plan is to generate a few visualization graphs from the datasets. There will be information about the relationship between the score and the earnings, the budgets and the runtime, or the genres and the runtime, and so on to find out what are the most interesting relationships among all data available. Different graphs will be presented to give a more comprehensive understanding.
   
 ### Method and Medium  
 This project is planned to be done by **Shorthand**. The mapping of the data will be accomplished in Tableau or Excel.  
