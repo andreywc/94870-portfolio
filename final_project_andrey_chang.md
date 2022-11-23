@@ -8,6 +8,12 @@ Story Arc:
 * As a reader, I want more knowledge to understand how much pets are to be adopted or what can I do to help.
 * I can do this by adopting a pet instead of purchasing one when I am interested.
 ### Sketches
+A line chart showing the adoption rate and the euthanized rate.  
+![Sketch 1](Final Project Sketch 1.png)  
+A map showing number of pets waiting to be adopted.  
+![Sketch 2](Final Project Sketch 1.png)  
+A bar chart showing the number of pets being adopted each year.  
+![Sketch 3](Final Project Sketch 1.png)  
 
 ### Data  
 The data source is from :
