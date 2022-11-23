@@ -11,9 +11,9 @@ Story Arc:
 A line chart showing the adoption rate and the euthanized rate.  
 ![Sketch 1](Final Project Sketch 1.png)  
 A map showing number of pets waiting to be adopted.  
-![Sketch 2](Final Project Sketch 1.png)  
+![Sketch 2](Final Project Sketch 2.png)  
 A bar chart showing the number of pets being adopted each year.  
-![Sketch 3](Final Project Sketch 1.png)  
+![Sketch 3](Final Project Sketch 3.png)  
 
 ### Data  
 The data source is from :
