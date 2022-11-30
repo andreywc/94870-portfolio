@@ -1,7 +1,7 @@
 # Final Project 
 The project progress will be divided into three parts.  
-[Part I](#part-I)  
-[Part II](#part-II)  
+[Part I](#part-i)  
+[Part II](#part-ii)  
   
 ## Part I
 ### Outline  
