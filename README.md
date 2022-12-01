@@ -11,7 +11,7 @@ With my past experience working as a data analyst intern, I would like to dig in
 
 ## Portfolio
 ### General Government Debt 
-[Link to General Governement Debt Project](https://andreywc.github.io/94870-portfolio/generalgovernmentdebt.html)  
+[Link to General Government Debt Project](https://andreywc.github.io/94870-portfolio/generalgovernmentdebt.html)  
   
 ### Critique by Design
 [Link to Critique by Design Project](https://andreywc.github.io/94870-portfolio/critiquebydesign.html)  
