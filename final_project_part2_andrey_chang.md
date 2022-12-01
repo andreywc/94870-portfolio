@@ -64,6 +64,12 @@ The following changes are planned to be made:
 4. The original sketch of the states will be added back, with a combination of the data of animals to be adopted and the euthansia rate, to tell why am I using the numbers of Texas.
 5. Add subtitle to the content warning.  
   
+#### New Version of Storyboard before in-class critique
+![Final Project Storyboard 5](Final Project Storyboard 5.png) 
+![Final Project Storyboard 6](Final Project Storyboard 6.png)  
+![Final Project Storyboard 7](Final Project Storyboard 7.png)  
+![Final Project Storyboard 8](Final Project Storyboard 8.png)  
+  
 #### Preview of Shorthand
 [Shorthand Preview](https://preview.shorthand.com/9sXj2xUcInhLreBW) 
 > Uncompleted, Still In progress 
