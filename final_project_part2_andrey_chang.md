@@ -17,7 +17,10 @@ The debate of euthanasia of animals has continued for decades. In this project, 
 * Will try to focus on the data of Texas, which has the highest euthansia rate among all states, to be more precise and narrow the story.
 
 ### Storyboard 
-![Final Project Storyboard](Final Project Storyboard.png)  
+![Final Project Storyboard 1](Final Project Storyboard 1.png) 
+![Final Project Storyboard 2](Final Project Storyboard 2.png)  
+![Final Project Storyboard 3](Final Project Storyboard 3.png)  
+![Final Project Storyboard 4](Final Project Storyboard 4.png)  
   
 ### User Research 
 #### Target Audience
