@@ -33,7 +33,7 @@ I asked through social media to investigate if there is anyone who wants to have
 * Interviewee C, 48 years old, currently keeping two dogs 
    
 #### Interview Script
-I showed them the storyboard without additional explaining, then asked the following questions:
+I showed them the storyboard without additional explaining, as I hope they can understand the story even without explanation. Then the following questions are asked afterwards:
 1. What do you think the story is trying to tell you?
 2. Are the data visualizations clear to you?
 3. Is everything clear enough? Is there any topic or idea that seems unclear or vague?
@@ -41,11 +41,11 @@ I showed them the storyboard without additional explaining, then asked the follo
 
 #### Findings
 * Consistent Feedbacks
-  - Positive: 
+  - Good Parts: 
     - It is pretty clear that the story is trying to tell people to adopt a dog.
     - Great idea to appeal people with the dog picture.
     - Call to action on the last page is good.
-  - Negative: 
+  - To Be Improved: 
     - The title of the home page, it doesn't seems that appealing and fells like I am trying to debate with someone.
     - Vague when talking about the reasons. Why did I mentioned reasons? What does the reasons here mean?
     - Things are clear, but maybe the order can be revised, like putting ideas about euthansia together
@@ -69,6 +69,8 @@ The following changes are planned to be made:
 ![Final Project Storyboard 6](Final Project Storyboard 6.png)  
 ![Final Project Storyboard 7](Final Project Storyboard 7.png)  
 ![Final Project Storyboard 8](Final Project Storyboard 8.png)  
+  
+For the first page, it will be the title, which is the main concept of the story that I am trying to tell. There will be a small interval of content warning as suggested to notify the audience there could be some sensitive information in the presentation. The second page is where I give a number of how many dogs enter the shelters each year, to catch the eye and also give an image of the numbers. The third page is about telling why the dogs are in the shelters and in the forth page, to call out the action, there will be reasons listed why we should adopt dogs. Lowering the euthanasia will be highlighted to inform that there will be information about that part in the following presentation. Then in the next page, I show the data visualization telling which state has the highest euthansia rate. In the sixth page, as Texas is the top listed state, the graph will show specific data of the adoption rate and euthanasia rate. In the seventh and eighth page, the story is trying to tell why dogs get euthanasia and give the number of how many dogs get euthanasia each year, giving the reason of why we should adopt them instead of shopping them to lower the possibilty of dogs getting euthanasia in shelters. In the final page, the presentaion ends with calling out the action.  
   
 #### Preview of Shorthand
 [Shorthand Preview](https://preview.shorthand.com/9sXj2xUcInhLreBW) 
