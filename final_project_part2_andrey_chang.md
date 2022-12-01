@@ -59,7 +59,8 @@ The following changes are planned to be made:
 2. Include information about why the dogs are euthanized.
 3. I was trying to simplify the story by only writing "Reasons", but because there are other information other than adopting in the storyboard, this further lead to a confusion. The plan is to change the order to see if it will be cleared.
 4. The original sketch of the states will be added back, with a combination of the data of animals to be adopted and the euthansia rate, to tell why am I using the numbers of Texas.
-5. Add subtitle to the content warning.
+5. Add subtitle to the content warning.  
+  
 #### Preview of Shorthand
 [Shorthand Preview](https://preview.shorthand.com/9sXj2xUcInhLreBW) 
 > Uncompleted, Still In progress 
