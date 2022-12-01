@@ -18,6 +18,7 @@ With my past experience working as a data analyst intern, I would like to dig in
   
 ### Final Project  
 [Link to Final Project](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
+[Link to Final Project Part II](https://andreywc.github.io/94870-portfolio/final_project_part2_andrey_chang.html)
   
 ### In Class Practices
 [Link to King County Viz (Flourish)](https://andreywc.github.io/94870-portfolio/kingcountydemo.html)  
