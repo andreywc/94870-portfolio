@@ -17,7 +17,7 @@ With my past experience working as a data analyst intern, I would like to dig in
 [Link to Critique by Design Project](https://andreywc.github.io/94870-portfolio/critiquebydesign.html)  
   
 ### Final Project  
-[Link to Final Project](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
+[Link to Final Project Part I](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
 [Link to Final Project Part II](https://andreywc.github.io/94870-portfolio/final_project_part2_andrey_chang.html)
   
 ### In Class Practices
