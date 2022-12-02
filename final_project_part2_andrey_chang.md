@@ -35,6 +35,7 @@ I asked through social media to investigate if there is anyone who wants to have
    
 #### Interview Script
 Storyboard are showed without additional explaining, as I hope they can understand the story even without explanation.  
+  
 |     | Goals         | Questions           | 
 |-----| ------------- | -------------       | 
 |1.| To see whether the story is clear even without explanation | What do you think the story is trying to tell you? | 
@@ -45,6 +46,7 @@ Storyboard are showed without additional explaining, as I hope they can understa
   
 #### Interviewees' Responses
 *Interviewee A*
+  
 |     | Responses | 
 |-----| --------- | 
 |1.   |You are trying to tell people to adopt a dog.|
@@ -54,6 +56,7 @@ Storyboard are showed without additional explaining, as I hope they can understa
 |5.   |N/A|
   
 *Interviewee B*
+  
 |     | Responses | 
 |-----| --------- | 
 |1.   |Adopting a dog|
@@ -63,6 +66,7 @@ Storyboard are showed without additional explaining, as I hope they can understa
 |5.   |Content warning, that is something that I didn't expected when I first see the title page. Great to have it there.|
   
 *Interviewee C*
+  
 |     | Responses | 
 |-----| --------- | 
 |1.   |Trying to persuade me to adopt a dog. Because you listed "Why" you should adopt instead of "How", so I guess the main idea is that you are trying to tell the benefits of adopting a dog.|
