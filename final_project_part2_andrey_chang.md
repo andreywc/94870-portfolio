@@ -28,16 +28,47 @@ The target audience of this story should be but are not limited to those who are
 
 #### Approach to Identifying Interviewees
 I asked through social media to investigate if there is anyone who wants to have a dog in the future. Luckily, there are plenty of people who are willing to have a dog. I approached two of the respondents and identified another interviewee who is already raising a dog for a more thorough response from different categories.
-* Interviewee A, 27 years old, no experience
-* Interviewee B, 24 years old, had a dog before
-* Interviewee C, 48 years old, currently keeping two dogs 
+* Interviewee A, 27 years old, no experience in raising pets, interested in adopting a dog
+* Interviewee B, 24 years old, had a dog before, currently not interested in adopting a dog but continues to pay close attention about euthanasia issues
+* Interviewee C, 48 years old, currently keeping two dogs that were adopted few years ago
    
 #### Interview Script
-I showed them the storyboard without additional explaining, as I hope they can understand the story even without explanation. Then the following questions are asked afterwards:
-1. What do you think the story is trying to tell you?
-2. Are the data visualizations clear to you?
-3. Is everything clear enough? Is there any topic or idea that seems unclear or vague?
-4. Any other thoughts?
+Storyboard are showed without additional explaining, as I hope they can understand the story even without explanation.  
+|     | Goals         | Questions           | 
+|-----| ------------- | -------------       | 
+|1.| To see whether the story is clear even without explanation | What do you think the story is trying to tell you? | 
+|2.| To see if the thoughts of the data visualizations are able to be conveyed clearly | Are the data visualizations clear to you? | 
+|3.| To make sure nothing is confusing | Is everything clear enough? Is there any topic or idea that seems unclear or vague?      | 
+|4.| To see what may be appealing or distracting | Is there anything you particularly like or dislike?     | 
+|5.| To understand points that I might ignored or should focus on | Any other thoughts?    | 
+  
+#### Interviewees' Responses
+*Interviewee A*
+|     | Responses | 
+|-----| --------- | 
+|1.   |You are trying to tell people to adopt a dog.|
+|2.   |Yes, it is clear enough to me.|
+|3.   |"Adopt if you are interested" that idea is pretty clear, especially when you leave it as a conclusion.|
+|4.   |I like the dog on the home page. But I don't like how you mention euthanasia and then talking about why they are in shelters back again.|
+|5.   |N/A|
+  
+*Interviewee B*
+|     | Responses | 
+|-----| --------- | 
+|1.   |Adopting a dog|
+|2.   |Why did you put Texas here? I don't get that part. But the graph itself is clear, just curious why Texas in all of a sudden..|
+|3.   |opic is clear and you emphasized it in the end again, so I think there is enough information up there. But the idea talking about "Reasons", maybe you should think more about this. Why did you put it here and make it clear, don't just say reasons.|
+|4.   |The dog icon? It's cute.|
+|5.   |Content warning, that is something that I didn't expected when I first see the title page. Great to have it there.|
+  
+*Interviewee C*
+|     | Responses | 
+|-----| --------- | 
+|1.   |Trying to persuade me to adopt a dog. Because you listed "Why" you should adopt instead of "How", so I guess the main idea is that you are trying to tell the benefits of adopting a dog.|
+|2.   |Data visualizations itself is clear.|
+|3.   |Yep, it is clear, it would be understandable even if you didn't talk about it but just let me see it.|
+|4.   |Great eye catching on the first page with the dog and the last page with the strong words to tell people adopting if interested.|
+|5.   |I'm not sure if it is only me that thinks so, but I feel like the order is kind of jumping around. Tell what is the warning about, don't just say content warning. Add labels to describe and make it clear. And the title, if it is a persuasive speech, then it works, but if you are telling me that you are trying to tell a story to call action, maybe you don't want to sound like debating with someone. And also, I think you should tell why dogs are euthanized, cause according to the story, I might think all dogs in the shelters will end up being euthanized if not adopted.|
 
 #### Findings
 * Consistent Feedbacks
@@ -71,6 +102,11 @@ The following changes are planned to be made:
 ![Final Project Storyboard 8](Final Project Storyboard 8.png)  
   
 For the first page, it will be the title, which is the main concept of the story that I am trying to tell. There will be a small interval of content warning as suggested to notify the audience there could be some sensitive information in the presentation. The second page is where I give a number of how many dogs enter the shelters each year, to catch the eye and also give an image of the numbers. The third page is about telling why the dogs are in the shelters and in the forth page, to call out the action, there will be reasons listed why we should adopt dogs. Lowering the euthanasia will be highlighted to inform that there will be information about that part in the following presentation. Then in the next page, I show the data visualization telling which state has the highest euthansia rate. In the sixth page, as Texas is the top listed state, the graph will show specific data of the adoption rate and euthanasia rate. In the seventh and eighth page, the story is trying to tell why dogs get euthanasia and give the number of how many dogs get euthanasia each year, giving the reason of why we should adopt them instead of shopping them to lower the possibilty of dogs getting euthanasia in shelters. In the final page, the presentaion ends with calling out the action.  
+  
+#### In-class Critique Feedbacks
+* If possible, maybe I can try making a comparison before and after the COVID-19 pandemic. Since we believe the rates of adoption have huge changes due to various reasons.
+* When talking about the reasons, try to make it like telling this story to all audiences instead of to those targeted ones.
+* The data visualization of Texas showing the compare rates of adoption and euthanasia is good.
   
 #### Preview of Shorthand
 [Shorthand Preview](https://preview.shorthand.com/9sXj2xUcInhLreBW) 
