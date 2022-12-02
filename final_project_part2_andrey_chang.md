@@ -14,7 +14,7 @@ The debate of euthanasia of animals has continued for decades. In this project, 
   - I can do this by adopting a pet instead of purchasing one when I am interested.
 #### Updated Version
 * Will be focusing on more about "adoption" instead of "euthansia" and "don't purchase" in the story, the two idea will still be mentioned, but is used to enhance the idea of adopting. 
-* Will try to focus on the data of Texas, which has the highest euthansia rate among all states, to be more precise and narrow the story.
+* Will try to focus on the data of California, which has the highest euthansia rate among all states, to be more precise and narrow the story.
 
 ### Storyboard 
 *The storyboard that shows how it will look like in Shorthand.*  
@@ -22,9 +22,6 @@ The debate of euthanasia of animals has continued for decades. In this project, 
 ![Final Project Storyboard 2](Final Project Storyboard 2.png)  
 ![Final Project Storyboard 3](Final Project Storyboard 3.png)  
 ![Final Project Storyboard 4](Final Project Storyboard 4.png)  
-
-### Wireframe
-*Data visualizations that will possibly be embedded.*
   
 ### User Research 
 #### Target Audience
@@ -60,7 +57,7 @@ Storyboard are showed without additional explaining, as I hope they can understa
 |     | Responses | 
 |-----| --------- | 
 |1.   |Adopting a dog|
-|2.   |Why did you put Texas here? I don't get that part. But the graph itself is clear, just curious why Texas in all of a sudden..|
+|2.   |Why did you put California here? I don't get that part. But the graph itself is clear, just curious why California in all of a sudden..|
 |3.   |opic is clear and you emphasized it in the end again, so I think there is enough information up there. But the idea talking about "Reasons", maybe you should think more about this. Why did you put it here and make it clear, don't just say reasons.|
 |4.   |The dog icon? It's cute.|
 |5.   |Content warning, that is something that I didn't expected when I first see the title page. Great to have it there.|
@@ -86,7 +83,7 @@ Storyboard are showed without additional explaining, as I hope they can understa
     - Things are clear, but maybe the order can be revised, like putting ideas about euthansia together
 
 * Conflict Feedbacks
-  - Visualizations are clear vs. Not sure why did I wrote Texas (Is there anything special about Texas?)
+  - Visualizations are clear vs. Not sure why did I wrote California (Is there anything special about California?)
   - Information is enough vs. Not persuasive enough, especially if I mentioned the rate of dogs euthanized in shelters, this could be midleading 
   - Content warning label brings the attention vs. Add a subtitle under the content warning so audience knows what are you trying to warn
   
@@ -96,7 +93,7 @@ The following changes are planned to be made:
 1. New title to sound less aggressive. 
 2. Include information about why the dogs are euthanized.
 3. I was trying to simplify the story by only writing "Reasons", but because there are other information other than adopting in the storyboard, this further lead to a confusion. The plan is to change the order to see if it will be cleared.
-4. The original sketch of the states will be added back, with a combination of the data of animals to be adopted and the euthansia rate, to tell why am I using the numbers of Texas.
+4. The original sketch of the states will be added back, with a combination of the data of animals to be adopted and the euthansia rate, to tell why am I using the numbers of California.
 5. Add subtitle to the content warning.  
   
 #### New Version of Storyboard before in-class critique
@@ -105,12 +102,19 @@ The following changes are planned to be made:
 ![Final Project Storyboard 7](Final Project Storyboard 7.png)  
 ![Final Project Storyboard 8](Final Project Storyboard 8.png)  
   
-For the first page, it will be the title, which is the main concept of the story that I am trying to tell. There will be a small interval of content warning as suggested to notify the audience there could be some sensitive information in the presentation. The second page is where I give a number of how many dogs enter the shelters each year, to catch the eye and also give an image of the numbers. The third page is about telling why the dogs are in the shelters and in the forth page, to call out the action, there will be reasons listed why we should adopt dogs. Lowering the euthanasia will be highlighted to inform that there will be information about that part in the following presentation. Then in the next page, I show the data visualization telling which state has the highest euthansia rate. In the sixth page, as Texas is the top listed state, the graph will show specific data of the adoption rate and euthanasia rate. In the seventh and eighth page, the story is trying to tell why dogs get euthanasia and give the number of how many dogs get euthanasia each year, giving the reason of why we should adopt them instead of shopping them to lower the possibilty of dogs getting euthanasia in shelters. In the final page, the presentaion ends with calling out the action.  
+For the first page, it will be the title, which is the main concept of the story that I am trying to tell. There will be a small interval of content warning as suggested to notify the audience there could be some sensitive information in the presentation. The second page is where I give a number of how many dogs enter the shelters each year, to catch the eye and also give an image of the numbers. The third page is about telling why the dogs are in the shelters and in the forth page, to call out the action, there will be reasons listed why we should adopt dogs. Lowering the euthanasia will be highlighted to inform that there will be information about that part in the following presentation. Then in the next page, I show the data visualization telling which state has the highest euthansia rate. In the sixth page, as California is the top listed state, the graph will show specific data of the adoption rate and euthanasia rate. In the seventh and eighth page, the story is trying to tell why dogs get euthanasia and give the number of how many dogs get euthanasia each year, giving the reason of why we should adopt them instead of shopping them to lower the possibilty of dogs getting euthanasia in shelters. In the final page, the presentaion ends with calling out the action and some links to the shelters will be provided.  
   
 #### In-class Critique Feedbacks
 * If possible, maybe I can try making a comparison before and after the COVID-19 pandemic. Since we believe the rates of adoption have huge changes due to various reasons.
 * When talking about the reasons, try to make it like telling this story to all audiences instead of to those targeted ones.
-* The data visualization of Texas showing the compare rates of adoption and euthanasia is good.
+* The data visualization of California showing the compare rates of adoption and euthanasia is good.
+  
+### Wireframe
+*Data visualizations that will possibly be embedded.*  
+![Wireframe 1](Wireframe 1.png)  
+![Wireframe 2](Wireframe 2.png)  
+![Wireframe 3](Wireframe 3.png)  
+![Wireframe 4](Wireframe 4.png)   
   
 #### Preview of Shorthand
 [Shorthand Preview](https://preview.shorthand.com/9sXj2xUcInhLreBW) 
