@@ -1,7 +1,8 @@
 # Final Project 
-> *The project progress will be divided into three parts.*  
-* [Part I](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html#part-i)  
-* [Part II](https://andreywc.github.io/94870-portfolio/final_project_part2_andrey_chang.html)
+> *The project progress is divided into three parts.*  
+* [Part I](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
+* [Part II](https://andreywc.github.io/94870-portfolio/final_project_part2_andrey_chang.html)  
+* [Part III](https://andreywc.github.io/94870-portfolio/final_project_part3_andrey_chang.html#part-iii)
   
 ## Part I
 ### Outline  
