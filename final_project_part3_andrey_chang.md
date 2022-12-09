@@ -25,8 +25,11 @@
   - [Pet Adoption Statistics for 2021](https://www.thezebra.com/resources/research/pet-adoption-statistics/)
 * The Human Society of the United States
   - [Top reasons to adopt a pet](https://www.humanesociety.org/resources/top-reasons-adopt-pet)
+  - [Pets by the numbers](https://humanepro.org/page/pets-by-the-numbers)
 * Humane Animal Rescue
   - [Shelter Statistics](https://humaneanimalrescue.org/about/statistics-and-reports/)
+* PetKeen 
+  - [14 Animal Shelter Statistics and Facts to Know in 2022](https://petkeen.com/animal-shelter-statistics/)
   
 [Return to Portfolio](https://andreywc.github.io/94870-portfolio/)
 
