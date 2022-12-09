@@ -30,6 +30,8 @@
   - [Shelter Statistics](https://humaneanimalrescue.org/about/statistics-and-reports/)
 * PetKeen 
   - [14 Animal Shelter Statistics and Facts to Know in 2022](https://petkeen.com/animal-shelter-statistics/)
+### Shorthand
+<script src="https://carnegiemellon.shorthandstories.com/adopt-dont-shop/embed.js"></script>
   
 [Return to Portfolio](https://andreywc.github.io/94870-portfolio/)
 
