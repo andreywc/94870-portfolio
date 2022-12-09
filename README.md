@@ -19,12 +19,11 @@ With my past experience working as a data analyst intern, I would like to dig in
 ### Final Project  
 [Link to Final Project Part I](https://andreywc.github.io/94870-portfolio/final_project_andrey_chang.html)  
 [Link to Final Project Part II](https://andreywc.github.io/94870-portfolio/final_project_part2_andrey_chang.html)
+[Link to Final Project Part III](https://andreywc.github.io/94870-portfolio/final_project_part3_andrey_chang.html)
+[Link to Final Project Shorthand](https://carnegiemellon.shorthandstories.com/adopt-dont-shop/index.html)
   
 ### In Class Practices
 [Link to King County Viz (Flourish)](https://andreywc.github.io/94870-portfolio/kingcountydemo.html)  
 [Link to Ranking of News Media by Consumer Trust Viz (Tableau)](https://andreywc.github.io/94870-portfolio/rankingofnewsmediabyconsumertrust.html)  
 [Link to Allegheny County Voter Ballots Incorrectly Dated Viz (Tableau)](https://andreywc.github.io/94870-portfolio/alleghenycountyvoterballots.html)  
 [Link to COVID-19 Activity Viz (Tableau)](https://andreywc.github.io/94870-portfolio/covid19activity.html)  
-  
-***To be continued***  
-Projects including *Data Visualization, Visualizing government debt, Critique by Design, Final Project*.
